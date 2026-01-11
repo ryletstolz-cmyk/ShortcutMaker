@@ -1,0 +1,2 @@
+# ShortcutMaker
+a .exe 
