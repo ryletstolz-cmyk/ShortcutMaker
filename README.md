@@ -1,3 +1,4 @@
+unzip
 # ShortcutMaker
 📄 Shortcut Maker — README
 What is this?
