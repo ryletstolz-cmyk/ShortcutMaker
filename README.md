@@ -69,3 +69,13 @@ Icons work best as .ico files.
 
 
 runing can run so:
+
+
+
+
+
+
+
+
+1 .<img width="1545" height="2000" alt="Image" src="https://github.com/user-attachments/assets/613505aa-0048-4aa0-b0df-449b3fc349c3" />
+2.<img width="1545" height="2000" alt="Image" src="https://github.com/user-attachments/assets/bb6d6720-8f79-4ee3-9735-137de4798d68" />
